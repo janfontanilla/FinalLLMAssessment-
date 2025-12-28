@@ -1,0 +1,47 @@
+{
+  "top_3_positive": [
+    {
+      "employee": "lydia.delgado",
+      "total_score": 101,
+      "total_messages": 284
+    },
+    {
+      "employee": "john.arnold",
+      "total_score": 97,
+      "total_messages": 256
+    },
+    {
+      "employee": "sally.beck",
+      "total_score": 89,
+      "total_messages": 227
+    }
+  ],
+  "top_3_negative": [
+    {
+      "employee": "rhonda.denton",
+      "total_score": 50,
+      "total_messages": 172
+    },
+    {
+      "employee": "kayne.coulter",
+      "total_score": 61,
+      "total_messages": 174
+    },
+    {
+      "employee": "bobette.riner@ipgdirect.com",
+      "total_score": 72,
+      "total_messages": 217
+    }
+  ],
+  "flight_risk_count": 6,
+  "flight_risk_list": [
+    "bobette.riner@ipgdirect.com",
+    "johnny.palmer",
+    "lydia.delgado",
+    "patti.thompson",
+    "rhonda.denton",
+    "sally.beck"
+  ],
+  "model_r2": 0.36150873687478924,
+  "model_rmse": 2.369028041876996
+}
