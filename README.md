@@ -2,7 +2,7 @@
 # Employee Sentiment Analysis Project
 
 ## 📋 Overview
-This project analyzes employee email messages from the Enron dataset to assess sentiment and engagement levels. The analysis includes sentiment labeling, exploratory data analysis, employee scoring, ranking, flight risk identification, and predictive modeling.
+This project analyzes employee email messages from the dataset to assess sentiment and engagement levels. The analysis includes sentiment labeling, exploratory data analysis, employee scoring, ranking, flight risk identification, and predictive modeling.
 
 ## 🎯 Project Objectives
 - **Sentiment Labeling**: Classify each message as Positive, Negative, or Neutral
